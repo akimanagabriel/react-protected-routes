@@ -7,7 +7,7 @@ function Home({ setLogged }) {
           setLogged(false);
         }}
       >
-        Logout
+        Logout account
       </button>
     </div>
   );
